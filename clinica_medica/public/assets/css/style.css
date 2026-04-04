@@ -1,0 +1,132 @@
+:root {
+    --primary-color: #007bff; /* Use a cor primária dinâmica do PHP */
+    --secondary-color: #6c757d;
+    --background-color: #f8f9fa;
+    --text-color: #343a40;
+    --shadow-light: 0 4px 6px rgba(0, 0, 0, 0.1);
+    --border-radius: 8px;
+}
+
+body {
+    overflow-y: scroll;
+    background-color: var(--background-color);
+    color: var(--text-color);
+    font-family: 'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif;
+    line-height: 1.6;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: var(--primary-color);
+    font-weight: 600;
+}
+
+/* Estilizando o contêiner principal */
+.container-fluid {
+    padding-top: 20px;
+}
+
+/* Estilizando os cards */
+.card {
+    border: none;
+    border-radius: var(--border-radius);
+    box-shadow: var(--shadow-light);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+}
+
+.card-header {
+    background-color: var(--primary-color);
+    color: #fff;
+    border-top-left-radius: var(--border-radius);
+    border-top-right-radius: var(--border-radius);
+}
+
+.card-footer {
+    background-color: #f1f1f1;
+    border-bottom-left-radius: var(--border-radius);
+    border-bottom-right-radius: var(--border-radius);
+}
+
+/* Estilizando botões */
+.btn-primary {
+    background-color: var(--primary-color);
+    border-color: var(--primary-color);
+    transition: background-color 0.3s ease;
+}
+
+.btn-primary:hover {
+    background-color: #0056b3;
+    border-color: #0056b3;
+}
+
+/* Estilizando a tabela */
+.table {
+    box-shadow: var(--shadow-light);
+    border-radius: var(--border-radius);
+    overflow: hidden;
+}
+
+
+.table tbody tr:hover {
+    background-color: #e9ecef;
+}
+
+/* Estilizando badges */
+.badge {
+    padding: 0.5em 0.8em;
+    font-size: 0.85em;
+    font-weight: 600;
+    border-radius: 50px;
+}
+
+/* Estilizando formulários */
+.form-control, .form-select {
+    border-radius: var(--border-radius);
+    border-color: #ced4da;
+    box-shadow: none;
+    transition: border-color 0.2s ease, box-shadow 0.2s ease;
+}
+
+.form-control:focus, .form-select:focus {
+    border-color: var(--primary-color);
+    box-shadow: 0 0 0 0.25rem rgba(0, 123, 255, 0.25);
+}
+
+/* Estilos para o Menu de Navegação */
+.nav-item .nav-link {
+    border-bottom: 2px solid transparent;
+    transition: border-bottom 0.3s ease;
+}
+
+.nav-item .nav-link:hover {
+    border-bottom: 2px solid #fff;
+}
+/* -- Estilos personalizados para o cabeçalho e logo -- */
+.navbar-custom {
+    min-height: 60px; /* Define uma altura mínima para o cabeçalho, ajuste se necessário */
+}
+
+.navbar-brand {
+    height: 100%; /* Faz o contêiner do logo e nome ocupar 100% da altura do navbar */
+    padding-top: 0;
+    padding-bottom: 0;
+    display: flex;
+    align-items: center; /* Centraliza verticalmente o conteúdo */
+}
+
+.logo-img {
+    height: 98%; /* A imagem ocupa 90% da altura do seu contêiner (.navbar-brand) */
+    max-height: 50px; /* Define um limite para o tamanho da logo */
+    width: auto;
+    object-fit: contain;
+}
+/* Adicione esta regra para estilizar o cabeçalho da tabela */
+.table thead {
+    background-color: var(--primary-color);
+    color: #fff;
+    border-color: var(--primary-color);
+}

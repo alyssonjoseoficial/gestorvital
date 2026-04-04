@@ -1,0 +1,286 @@
+[29-Aug-2025 22:35:08 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home1/alyss340/gestorvital.com.br/administrador/editar_identidade.php:38
+Stack trace:
+#0 /home1/alyss340/gestorvital.com.br/administrador/editar_identidade.php(38): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'clinica_bem_est...')
+#1 {main}
+  thrown in /home1/alyss340/gestorvital.com.br/administrador/editar_identidade.php on line 38
+[29-Aug-2025 22:35:18 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home1/alyss340/gestorvital.com.br/administrador/editar_identidade.php:38
+Stack trace:
+#0 /home1/alyss340/gestorvital.com.br/administrador/editar_identidade.php(38): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'clinica_bem_est...')
+#1 {main}
+  thrown in /home1/alyss340/gestorvital.com.br/administrador/editar_identidade.php on line 38
+[29-Aug-2025 22:35:18 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home1/alyss340/gestorvital.com.br/administrador/editar_identidade.php:38
+Stack trace:
+#0 /home1/alyss340/gestorvital.com.br/administrador/editar_identidade.php(38): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'clinica_bem_est...')
+#1 {main}
+  thrown in /home1/alyss340/gestorvital.com.br/administrador/editar_identidade.php on line 38
+[30-Aug-2025 22:16:19 America/Fortaleza] PHP Warning:  opendir(/home1/alyss340/gestorvital.com.br/gestorvital/clinica_medica): Failed to open directory: No such file or directory in /home1/alyss340/gestorvital.com.br/administrador/clonar_tudo.php on line 35
+[30-Aug-2025 22:16:19 America/Fortaleza] PHP Fatal error:  Uncaught TypeError: readdir(): Argument #1 ($dir_handle) must be of type resource or null, false given in /home1/alyss340/gestorvital.com.br/administrador/clonar_tudo.php:37
+Stack trace:
+#0 /home1/alyss340/gestorvital.com.br/administrador/clonar_tudo.php(37): readdir(false)
+#1 /home1/alyss340/gestorvital.com.br/administrador/clonar_tudo.php(73): recurse_copy_cloner('/home1/alyss340...', '/home1/alyss340...')
+#2 {main}
+  thrown in /home1/alyss340/gestorvital.com.br/administrador/clonar_tudo.php on line 37
+[30-Aug-2025 22:27:58 America/Fortaleza] PHP Warning:  opendir(/home1/alyss340/gestorvital.com.br/gestorvital/clinica_medica): Failed to open directory: No such file or directory in /home1/alyss340/gestorvital.com.br/administrador/clonar_tudo.php on line 35
+[30-Aug-2025 22:27:58 America/Fortaleza] PHP Fatal error:  Uncaught TypeError: readdir(): Argument #1 ($dir_handle) must be of type resource or null, false given in /home1/alyss340/gestorvital.com.br/administrador/clonar_tudo.php:37
+Stack trace:
+#0 /home1/alyss340/gestorvital.com.br/administrador/clonar_tudo.php(37): readdir(false)
+#1 /home1/alyss340/gestorvital.com.br/administrador/clonar_tudo.php(166): recurse_copy_cloner('/home1/alyss340...', '/home1/alyss340...')
+#2 {main}
+  thrown in /home1/alyss340/gestorvital.com.br/administrador/clonar_tudo.php on line 37
+[30-Aug-2025 22:44:53 America/Fortaleza] PHP Warning:  opendir(/home1/alyss340/gestorvital.com.br/gestorvital/clinica_medica): Failed to open directory: No such file or directory in /home1/alyss340/gestorvital.com.br/administrador/clonar_tudo.php on line 35
+[30-Aug-2025 22:44:53 America/Fortaleza] PHP Fatal error:  Uncaught TypeError: readdir(): Argument #1 ($dir_handle) must be of type resource or null, false given in /home1/alyss340/gestorvital.com.br/administrador/clonar_tudo.php:37
+Stack trace:
+#0 /home1/alyss340/gestorvital.com.br/administrador/clonar_tudo.php(37): readdir(false)
+#1 /home1/alyss340/gestorvital.com.br/administrador/clonar_tudo.php(193): recurse_copy_cloner('/home1/alyss340...', '/home1/alyss340...')
+#2 {main}
+  thrown in /home1/alyss340/gestorvital.com.br/administrador/clonar_tudo.php on line 37
+[30-Aug-2025 22:46:42 America/Fortaleza] PHP Warning:  opendir(/home1/alyss340/gestorvital.com.br/gestorvital/clinica_medica): Failed to open directory: No such file or directory in /home1/alyss340/gestorvital.com.br/administrador/clonar_tudo.php on line 35
+[30-Aug-2025 22:46:42 America/Fortaleza] PHP Fatal error:  Uncaught TypeError: readdir(): Argument #1 ($dir_handle) must be of type resource or null, false given in /home1/alyss340/gestorvital.com.br/administrador/clonar_tudo.php:37
+Stack trace:
+#0 /home1/alyss340/gestorvital.com.br/administrador/clonar_tudo.php(37): readdir(false)
+#1 /home1/alyss340/gestorvital.com.br/administrador/clonar_tudo.php(201): recurse_copy_cloner('/home1/alyss340...', '/home1/alyss340...')
+#2 {main}
+  thrown in /home1/alyss340/gestorvital.com.br/administrador/clonar_tudo.php on line 37
+[30-Aug-2025 22:50:46 America/Fortaleza] PHP Warning:  opendir(/home1/alyss340/gestorvital.com.br/gestorvital/clinica_medica): Failed to open directory: No such file or directory in /home1/alyss340/gestorvital.com.br/administrador/clonar_tudo.php on line 35
+[30-Aug-2025 22:50:46 America/Fortaleza] PHP Fatal error:  Uncaught TypeError: readdir(): Argument #1 ($dir_handle) must be of type resource or null, false given in /home1/alyss340/gestorvital.com.br/administrador/clonar_tudo.php:37
+Stack trace:
+#0 /home1/alyss340/gestorvital.com.br/administrador/clonar_tudo.php(37): readdir(false)
+#1 /home1/alyss340/gestorvital.com.br/administrador/clonar_tudo.php(195): recurse_copy_cloner('/home1/alyss340...', '/home1/alyss340...')
+#2 {main}
+  thrown in /home1/alyss340/gestorvital.com.br/administrador/clonar_tudo.php on line 37
+[30-Aug-2025 22:53:57 America/Fortaleza] PHP Warning:  opendir(/home1/alyss340/gestorvital.com.br/gestorvital/clinica_medica): Failed to open directory: No such file or directory in /home1/alyss340/gestorvital.com.br/administrador/clonar_tudo.php on line 35
+[30-Aug-2025 22:53:57 America/Fortaleza] PHP Fatal error:  Uncaught TypeError: readdir(): Argument #1 ($dir_handle) must be of type resource or null, false given in /home1/alyss340/gestorvital.com.br/administrador/clonar_tudo.php:37
+Stack trace:
+#0 /home1/alyss340/gestorvital.com.br/administrador/clonar_tudo.php(37): readdir(false)
+#1 /home1/alyss340/gestorvital.com.br/administrador/clonar_tudo.php(171): recurse_copy_cloner('/home1/alyss340...', '/home1/alyss340...')
+#2 {main}
+  thrown in /home1/alyss340/gestorvital.com.br/administrador/clonar_tudo.php on line 37
+[30-Aug-2025 22:56:39 America/Fortaleza] PHP Warning:  opendir(/home1/alyss340/gestorvital.com.br/gestorvital/clinica_medica): Failed to open directory: No such file or directory in /home1/alyss340/gestorvital.com.br/administrador/clonar_tudo.php on line 35
+[30-Aug-2025 22:56:39 America/Fortaleza] PHP Fatal error:  Uncaught TypeError: readdir(): Argument #1 ($dir_handle) must be of type resource or null, false given in /home1/alyss340/gestorvital.com.br/administrador/clonar_tudo.php:37
+Stack trace:
+#0 /home1/alyss340/gestorvital.com.br/administrador/clonar_tudo.php(37): readdir(false)
+#1 /home1/alyss340/gestorvital.com.br/administrador/clonar_tudo.php(171): recurse_copy_cloner('/home1/alyss340...', '/home1/alyss340...')
+#2 {main}
+  thrown in /home1/alyss340/gestorvital.com.br/administrador/clonar_tudo.php on line 37
+[30-Aug-2025 22:58:34 America/Fortaleza] --- Início do script clonar_tudo.php ---
+[30-Aug-2025 22:58:34 America/Fortaleza] Usuário master validado com sucesso.
+[30-Aug-2025 22:58:40 America/Fortaleza] --- Início do script clonar_tudo.php ---
+[30-Aug-2025 22:58:40 America/Fortaleza] Usuário master validado com sucesso.
+[30-Aug-2025 22:58:40 America/Fortaleza] Requisição POST recebida.
+[30-Aug-2025 22:58:40 America/Fortaleza] Nome da clínica base (constante): alyss340_clinicas_id
+[30-Aug-2025 22:58:40 America/Fortaleza] Nome da pasta de destino: /home1/alyss340/gestorvital.com.br/gestorvital/odontoclin
+[30-Aug-2025 22:58:40 America/Fortaleza] Iniciando clonagem da pasta.
+[30-Aug-2025 22:58:40 America/Fortaleza] PHP Warning:  opendir(/home1/alyss340/gestorvital.com.br/gestorvital/clinica_medica): Failed to open directory: No such file or directory in /home1/alyss340/gestorvital.com.br/administrador/clonar_tudo.php on line 48
+[30-Aug-2025 22:58:40 America/Fortaleza] PHP Fatal error:  Uncaught TypeError: readdir(): Argument #1 ($dir_handle) must be of type resource or null, false given in /home1/alyss340/gestorvital.com.br/administrador/clonar_tudo.php:50
+Stack trace:
+#0 /home1/alyss340/gestorvital.com.br/administrador/clonar_tudo.php(50): readdir(false)
+#1 /home1/alyss340/gestorvital.com.br/administrador/clonar_tudo.php(224): recurse_copy_cloner('/home1/alyss340...', '/home1/alyss340...')
+#2 {main}
+  thrown in /home1/alyss340/gestorvital.com.br/administrador/clonar_tudo.php on line 50
+[31-Aug-2025 20:46:46 America/Fortaleza] PHP Warning:  opendir(/home1/alyss340/gestorvital.com.br/gestorvital/clinica_modelo): Failed to open directory: No such file or directory in /home1/alyss340/gestorvital.com.br/administrador/clonar_tudo.php on line 36
+[31-Aug-2025 20:46:46 America/Fortaleza] PHP Fatal error:  Uncaught TypeError: readdir(): Argument #1 ($dir_handle) must be of type resource or null, false given in /home1/alyss340/gestorvital.com.br/administrador/clonar_tudo.php:38
+Stack trace:
+#0 /home1/alyss340/gestorvital.com.br/administrador/clonar_tudo.php(38): readdir(false)
+#1 /home1/alyss340/gestorvital.com.br/administrador/clonar_tudo.php(75): recurse_copy_cloner('/home1/alyss340...', '/home1/alyss340...')
+#2 {main}
+  thrown in /home1/alyss340/gestorvital.com.br/administrador/clonar_tudo.php on line 38
+[02-Sep-2025 10:44:37 America/Fortaleza] PHP Warning:  require_once(/home1/alyss340/gestorvital.com.br/administrador/../4/config/config.php): Failed to open stream: No such file or directory in /home1/alyss340/gestorvital.com.br/administrador/editar_identidade.php on line 28
+[02-Sep-2025 10:44:37 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/alyss340/gestorvital.com.br/administrador/../4/config/config.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/alyss340/gestorvital.com.br/administrador/editar_identidade.php:28
+Stack trace:
+#0 {main}
+  thrown in /home1/alyss340/gestorvital.com.br/administrador/editar_identidade.php on line 28
+[02-Sep-2025 10:44:40 America/Fortaleza] PHP Warning:  require_once(/home1/alyss340/gestorvital.com.br/administrador/../4/private/includes/cabecalho.php): Failed to open stream: No such file or directory in /home1/alyss340/gestorvital.com.br/administrador/gerenciar_identidade.php on line 19
+[02-Sep-2025 10:44:40 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/alyss340/gestorvital.com.br/administrador/../4/private/includes/cabecalho.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/alyss340/gestorvital.com.br/administrador/gerenciar_identidade.php:19
+Stack trace:
+#0 {main}
+  thrown in /home1/alyss340/gestorvital.com.br/administrador/gerenciar_identidade.php on line 19
+[02-Sep-2025 10:44:59 America/Fortaleza] PHP Warning:  require_once(/home1/alyss340/gestorvital.com.br/administrador/../4/config/config.php): Failed to open stream: No such file or directory in /home1/alyss340/gestorvital.com.br/administrador/editar_identidade.php on line 28
+[02-Sep-2025 10:44:59 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/alyss340/gestorvital.com.br/administrador/../4/config/config.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/alyss340/gestorvital.com.br/administrador/editar_identidade.php:28
+Stack trace:
+#0 {main}
+  thrown in /home1/alyss340/gestorvital.com.br/administrador/editar_identidade.php on line 28
+[02-Sep-2025 10:46:40 America/Fortaleza] PHP Warning:  require_once(/home1/alyss340/gestorvital.com.br/administrador/../4/private/includes/cabecalho.php): Failed to open stream: No such file or directory in /home1/alyss340/gestorvital.com.br/administrador/gerenciar_identidade.php on line 19
+[02-Sep-2025 10:46:40 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/alyss340/gestorvital.com.br/administrador/../4/private/includes/cabecalho.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/alyss340/gestorvital.com.br/administrador/gerenciar_identidade.php:19
+Stack trace:
+#0 {main}
+  thrown in /home1/alyss340/gestorvital.com.br/administrador/gerenciar_identidade.php on line 19
+[02-Sep-2025 10:46:50 America/Fortaleza] PHP Warning:  require_once(/home1/alyss340/gestorvital.com.br/administrador/../Odontoclin/private/includes/cabecalho.php): Failed to open stream: No such file or directory in /home1/alyss340/gestorvital.com.br/administrador/editar_identidade.php on line 61
+[02-Sep-2025 10:46:50 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/alyss340/gestorvital.com.br/administrador/../Odontoclin/private/includes/cabecalho.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/alyss340/gestorvital.com.br/administrador/editar_identidade.php:61
+Stack trace:
+#0 {main}
+  thrown in /home1/alyss340/gestorvital.com.br/administrador/editar_identidade.php on line 61
+[02-Sep-2025 10:47:13 America/Fortaleza] PHP Warning:  require_once(/home1/alyss340/gestorvital.com.br/administrador/../Odontoclin/private/includes/cabecalho.php): Failed to open stream: No such file or directory in /home1/alyss340/gestorvital.com.br/administrador/gerenciar_identidade.php on line 19
+[02-Sep-2025 10:47:13 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/alyss340/gestorvital.com.br/administrador/../Odontoclin/private/includes/cabecalho.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/alyss340/gestorvital.com.br/administrador/gerenciar_identidade.php:19
+Stack trace:
+#0 {main}
+  thrown in /home1/alyss340/gestorvital.com.br/administrador/gerenciar_identidade.php on line 19
+[02-Sep-2025 10:52:34 America/Fortaleza] PHP Warning:  require_once(/home1/alyss340/gestorvital.com.br/administrador/../alyss340_odontoclin/private/includes/cabecalho.php): Failed to open stream: No such file or directory in /home1/alyss340/gestorvital.com.br/administrador/editar_identidade.php on line 61
+[02-Sep-2025 10:52:34 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/alyss340/gestorvital.com.br/administrador/../alyss340_odontoclin/private/includes/cabecalho.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/alyss340/gestorvital.com.br/administrador/editar_identidade.php:61
+Stack trace:
+#0 {main}
+  thrown in /home1/alyss340/gestorvital.com.br/administrador/editar_identidade.php on line 61
+[02-Sep-2025 10:55:55 America/Fortaleza] PHP Warning:  require_once(/home1/alyss340/gestorvital.com.br/gestorvital/alyss340_odontoclin/private/includes/cabecalho.php): Failed to open stream: No such file or directory in /home1/alyss340/gestorvital.com.br/administrador/gerenciar_identidade.php on line 19
+[02-Sep-2025 10:55:55 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/alyss340/gestorvital.com.br/gestorvital/alyss340_odontoclin/private/includes/cabecalho.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/alyss340/gestorvital.com.br/administrador/gerenciar_identidade.php:19
+Stack trace:
+#0 {main}
+  thrown in /home1/alyss340/gestorvital.com.br/administrador/gerenciar_identidade.php on line 19
+[02-Sep-2025 10:55:56 America/Fortaleza] PHP Warning:  require_once(/home1/alyss340/gestorvital.com.br/gestorvital/alyss340_odontoclin/private/includes/cabecalho.php): Failed to open stream: No such file or directory in /home1/alyss340/gestorvital.com.br/administrador/gerenciar_identidade.php on line 19
+[02-Sep-2025 10:55:56 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/alyss340/gestorvital.com.br/gestorvital/alyss340_odontoclin/private/includes/cabecalho.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/alyss340/gestorvital.com.br/administrador/gerenciar_identidade.php:19
+Stack trace:
+#0 {main}
+  thrown in /home1/alyss340/gestorvital.com.br/administrador/gerenciar_identidade.php on line 19
+[02-Sep-2025 10:56:10 America/Fortaleza] PHP Warning:  require_once(/home1/alyss340/gestorvital.com.br/gestorvital/odontoclin/private/includes/cabecalho.php): Failed to open stream: No such file or directory in /home1/alyss340/gestorvital.com.br/administrador/gerenciar_identidade.php on line 19
+[02-Sep-2025 10:56:10 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/alyss340/gestorvital.com.br/gestorvital/odontoclin/private/includes/cabecalho.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/alyss340/gestorvital.com.br/administrador/gerenciar_identidade.php:19
+Stack trace:
+#0 {main}
+  thrown in /home1/alyss340/gestorvital.com.br/administrador/gerenciar_identidade.php on line 19
+[02-Sep-2025 10:56:42 America/Fortaleza] PHP Warning:  require_once(/home1/alyss340/gestorvital.com.br/gestorvital/config/config_central.php): Failed to open stream: No such file or directory in /home1/alyss340/gestorvital.com.br/administrador/editar_identidade.php on line 3
+[02-Sep-2025 10:56:42 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/alyss340/gestorvital.com.br/gestorvital/config/config_central.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/alyss340/gestorvital.com.br/administrador/editar_identidade.php:3
+Stack trace:
+#0 {main}
+  thrown in /home1/alyss340/gestorvital.com.br/administrador/editar_identidade.php on line 3
+[02-Sep-2025 11:02:14 America/Fortaleza] PHP Warning:  require_once(/home1/alyss340/gestorvital.com.br/administrador/../alyss340_odontoclin/private/includes/cabecalho.php): Failed to open stream: No such file or directory in /home1/alyss340/gestorvital.com.br/administrador/editar_identidade.php on line 61
+[02-Sep-2025 11:02:14 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/alyss340/gestorvital.com.br/administrador/../alyss340_odontoclin/private/includes/cabecalho.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/alyss340/gestorvital.com.br/administrador/editar_identidade.php:61
+Stack trace:
+#0 {main}
+  thrown in /home1/alyss340/gestorvital.com.br/administrador/editar_identidade.php on line 61
+[02-Sep-2025 11:02:58 America/Fortaleza] PHP Warning:  require_once(/home1/alyss340/gestorvital.com.br/administrador/../alyss340_odontoclin/private/includes/cabecalho.php): Failed to open stream: No such file or directory in /home1/alyss340/gestorvital.com.br/administrador/gerenciar_identidade.php on line 19
+[02-Sep-2025 11:02:58 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/alyss340/gestorvital.com.br/administrador/../alyss340_odontoclin/private/includes/cabecalho.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/alyss340/gestorvital.com.br/administrador/gerenciar_identidade.php:19
+Stack trace:
+#0 {main}
+  thrown in /home1/alyss340/gestorvital.com.br/administrador/gerenciar_identidade.php on line 19
+[02-Sep-2025 11:18:09 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'alyss340_clinicas_id.usuarios' doesn't exist in /home1/alyss340/gestorvital.com.br/administrador/login_master.php:26
+Stack trace:
+#0 /home1/alyss340/gestorvital.com.br/administrador/login_master.php(26): mysqli->prepare('SELECT id, nome...')
+#1 {main}
+  thrown in /home1/alyss340/gestorvital.com.br/administrador/login_master.php on line 26
+[02-Sep-2025 11:24:59 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'alyss340_clinicas_id.usuarios' doesn't exist in /home1/alyss340/gestorvital.com.br/administrador/login_master.php:26
+Stack trace:
+#0 /home1/alyss340/gestorvital.com.br/administrador/login_master.php(26): mysqli->prepare('SELECT id, nome...')
+#1 {main}
+  thrown in /home1/alyss340/gestorvital.com.br/administrador/login_master.php on line 26
+[02-Sep-2025 11:30:16 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home1/alyss340/gestorvital.com.br/administrador/login_master.php:18
+Stack trace:
+#0 /home1/alyss340/gestorvital.com.br/administrador/login_master.php(18): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'gestorvital_cen...')
+#1 {main}
+  thrown in /home1/alyss340/gestorvital.com.br/administrador/login_master.php on line 18
+[02-Sep-2025 11:32:07 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home1/alyss340/gestorvital.com.br/administrador/login_master.php:18
+Stack trace:
+#0 /home1/alyss340/gestorvital.com.br/administrador/login_master.php(18): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'gestorvital_cen...')
+#1 {main}
+  thrown in /home1/alyss340/gestorvital.com.br/administrador/login_master.php on line 18
+[02-Sep-2025 11:32:07 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home1/alyss340/gestorvital.com.br/administrador/login_master.php:18
+Stack trace:
+#0 /home1/alyss340/gestorvital.com.br/administrador/login_master.php(18): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'gestorvital_cen...')
+#1 {main}
+  thrown in /home1/alyss340/gestorvital.com.br/administrador/login_master.php on line 18
+[02-Sep-2025 11:32:13 America/Fortaleza] PHP Warning:  require_once(/home1/alyss340/gestorvital.com.br/administrador/includes/master_cabecalho.php): Failed to open stream: No such file or directory in /home1/alyss340/gestorvital.com.br/administrador/editar_identidade.php on line 6
+[02-Sep-2025 11:32:13 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/alyss340/gestorvital.com.br/administrador/includes/master_cabecalho.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/alyss340/gestorvital.com.br/administrador/editar_identidade.php:6
+Stack trace:
+#0 {main}
+  thrown in /home1/alyss340/gestorvital.com.br/administrador/editar_identidade.php on line 6
+[02-Sep-2025 11:32:16 America/Fortaleza] PHP Warning:  require_once(/home1/alyss340/gestorvital.com.br/administrador/includes/master_cabecalho.php): Failed to open stream: No such file or directory in /home1/alyss340/gestorvital.com.br/administrador/gerenciar_identidade.php on line 6
+[02-Sep-2025 11:32:16 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/alyss340/gestorvital.com.br/administrador/includes/master_cabecalho.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/alyss340/gestorvital.com.br/administrador/gerenciar_identidade.php:6
+Stack trace:
+#0 {main}
+  thrown in /home1/alyss340/gestorvital.com.br/administrador/gerenciar_identidade.php on line 6
+[02-Sep-2025 11:32:17 America/Fortaleza] PHP Warning:  require_once(/home1/alyss340/gestorvital.com.br/administrador/includes/master_cabecalho.php): Failed to open stream: No such file or directory in /home1/alyss340/gestorvital.com.br/administrador/gerenciar_identidade.php on line 6
+[02-Sep-2025 11:32:17 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/alyss340/gestorvital.com.br/administrador/includes/master_cabecalho.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/alyss340/gestorvital.com.br/administrador/gerenciar_identidade.php:6
+Stack trace:
+#0 {main}
+  thrown in /home1/alyss340/gestorvital.com.br/administrador/gerenciar_identidade.php on line 6
+[02-Sep-2025 11:32:44 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home1/alyss340/gestorvital.com.br/administrador/login_master.php:18
+Stack trace:
+#0 /home1/alyss340/gestorvital.com.br/administrador/login_master.php(18): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'gestorvital_cen...')
+#1 {main}
+  thrown in /home1/alyss340/gestorvital.com.br/administrador/login_master.php on line 18
+[02-Sep-2025 11:35:01 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home1/alyss340/gestorvital.com.br/administrador/login_master.php:19
+Stack trace:
+#0 /home1/alyss340/gestorvital.com.br/administrador/login_master.php(19): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'gestorvital_cen...')
+#1 {main}
+  thrown in /home1/alyss340/gestorvital.com.br/administrador/login_master.php on line 19
+[02-Sep-2025 11:38:11 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home1/alyss340/gestorvital.com.br/administrador/login_master.php:20
+Stack trace:
+#0 /home1/alyss340/gestorvital.com.br/administrador/login_master.php(20): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'gestorvital_cen...')
+#1 {main}
+  thrown in /home1/alyss340/gestorvital.com.br/administrador/login_master.php on line 20
+[02-Sep-2025 12:20:50 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home1/alyss340/gestorvital.com.br/administrador/login_master.php:20
+Stack trace:
+#0 /home1/alyss340/gestorvital.com.br/administrador/login_master.php(20): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'gestorvital_cen...')
+#1 {main}
+  thrown in /home1/alyss340/gestorvital.com.br/administrador/login_master.php on line 20
+[02-Sep-2025 12:21:41 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home1/alyss340/gestorvital.com.br/administrador/login_master.php:20
+Stack trace:
+#0 /home1/alyss340/gestorvital.com.br/administrador/login_master.php(20): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'gestorvital_cen...')
+#1 {main}
+  thrown in /home1/alyss340/gestorvital.com.br/administrador/login_master.php on line 20
+[02-Sep-2025 12:26:50 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home1/alyss340/gestorvital.com.br/administrador/login_master.php:19
+Stack trace:
+#0 /home1/alyss340/gestorvital.com.br/administrador/login_master.php(19): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'gestorvital_cen...')
+#1 {main}
+  thrown in /home1/alyss340/gestorvital.com.br/administrador/login_master.php on line 19
+[02-Sep-2025 12:27:33 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home1/alyss340/gestorvital.com.br/administrador/login_master.php:19
+Stack trace:
+#0 /home1/alyss340/gestorvital.com.br/administrador/login_master.php(19): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'gestorvital_cen...')
+#1 {main}
+  thrown in /home1/alyss340/gestorvital.com.br/administrador/login_master.php on line 19
+[02-Sep-2025 12:39:59 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home1/alyss340/gestorvital.com.br/administrador/processa_login_master.php:16
+Stack trace:
+#0 /home1/alyss340/gestorvital.com.br/administrador/processa_login_master.php(16): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'gestorvital_cen...')
+#1 {main}
+  thrown in /home1/alyss340/gestorvital.com.br/administrador/processa_login_master.php on line 16
+[02-Sep-2025 12:41:28 America/Fortaleza] PHP Warning:  Undefined variable $conn_central in /home1/alyss340/gestorvital.com.br/administrador/processa_login_master.php on line 18
+[02-Sep-2025 12:41:28 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/alyss340/gestorvital.com.br/administrador/processa_login_master.php:18
+Stack trace:
+#0 {main}
+  thrown in /home1/alyss340/gestorvital.com.br/administrador/processa_login_master.php on line 18
+[02-Sep-2025 12:43:58 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home1/alyss340/gestorvital.com.br/administrador/processa_login_master.php:19
+Stack trace:
+#0 /home1/alyss340/gestorvital.com.br/administrador/processa_login_master.php(19): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'gestorvital_cen...')
+#1 {main}
+  thrown in /home1/alyss340/gestorvital.com.br/administrador/processa_login_master.php on line 19
+[02-Sep-2025 12:44:43 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home1/alyss340/gestorvital.com.br/administrador/processa_login_master.php:19
+Stack trace:
+#0 /home1/alyss340/gestorvital.com.br/administrador/processa_login_master.php(19): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'gestorvital_cen...')
+#1 {main}
+  thrown in /home1/alyss340/gestorvital.com.br/administrador/processa_login_master.php on line 19
+[02-Sep-2025 12:46:26 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home1/alyss340/gestorvital.com.br/administrador/processa_login_master.php:19
+Stack trace:
+#0 /home1/alyss340/gestorvital.com.br/administrador/processa_login_master.php(19): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'gestorvital_cen...')
+#1 {main}
+  thrown in /home1/alyss340/gestorvital.com.br/administrador/processa_login_master.php on line 19
+[03-Sep-2025 11:18:56 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home1/alyss340/gestorvital.com.br/administrador/processa_login_master.php:19
+Stack trace:
+#0 /home1/alyss340/gestorvital.com.br/administrador/processa_login_master.php(19): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'gestorvital_cen...')
+#1 {main}
+  thrown in /home1/alyss340/gestorvital.com.br/administrador/processa_login_master.php on line 19
+[03-Sep-2025 11:19:53 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home1/alyss340/gestorvital.com.br/administrador/processa_login_master.php:19
+Stack trace:
+#0 /home1/alyss340/gestorvital.com.br/administrador/processa_login_master.php(19): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'gestorvital_cen...')
+#1 {main}
+  thrown in /home1/alyss340/gestorvital.com.br/administrador/processa_login_master.php on line 19
+[03-Sep-2025 11:19:57 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home1/alyss340/gestorvital.com.br/administrador/processa_login_master.php:19
+Stack trace:
+#0 /home1/alyss340/gestorvital.com.br/administrador/processa_login_master.php(19): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'gestorvital_cen...')
+#1 {main}
+  thrown in /home1/alyss340/gestorvital.com.br/administrador/processa_login_master.php on line 19
+[03-Sep-2025 11:20:33 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home1/alyss340/gestorvital.com.br/administrador/processa_login_master.php:16
+Stack trace:
+#0 /home1/alyss340/gestorvital.com.br/administrador/processa_login_master.php(16): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'gestorvital_cen...')
+#1 {main}
+  thrown in /home1/alyss340/gestorvital.com.br/administrador/processa_login_master.php on line 16
+[03-Sep-2025 11:27:30 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home1/alyss340/gestorvital.com.br/administrador/processa_login_master.php:17
+Stack trace:
+#0 /home1/alyss340/gestorvital.com.br/administrador/processa_login_master.php(17): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'alyss340_clinic...')
+#1 {main}
+  thrown in /home1/alyss340/gestorvital.com.br/administrador/processa_login_master.php on line 17
+[03-Sep-2025 11:33:53 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home1/alyss340/gestorvital.com.br/administrador/processa_login_master.php:17
+Stack trace:
+#0 /home1/alyss340/gestorvital.com.br/administrador/processa_login_master.php(17): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'alyss340_clinic...')
+#1 {main}
+  thrown in /home1/alyss340/gestorvital.com.br/administrador/processa_login_master.php on line 17
+[03-Sep-2025 11:34:26 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home1/alyss340/gestorvital.com.br/administrador/processa_login_master.php:17
+Stack trace:
+#0 /home1/alyss340/gestorvital.com.br/administrador/processa_login_master.php(17): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'alyss340_clinic...')
+#1 {main}
+  thrown in /home1/alyss340/gestorvital.com.br/administrador/processa_login_master.php on line 17

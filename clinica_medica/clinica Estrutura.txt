@@ -1,0 +1,82 @@
+Login: admin@clinica.com
+Senha: admin123
+
+Etapas de Desenvolvimento
+Configuração inicial
+
+Criar a estrutura do projeto PHP (pasta public, config, views, controllers, models). OK
+
+Criar o config.php com conexão MySQL. OK
+
+Definir padrão visual (Bootstrap 5) e cabeçalho/rodapé padrão. OK
+
+Controle de usuários e níveis de acesso OK
+
+Tela de login.OK
+
+Cadastro de usuários (administrador, médico, recepção, financeiro). OK
+
+Sistema de permissões por módulo. OK
+
+Registro de logs.
+
+Cadastro de pacientes OK
+
+Tela para inserir e editar dados pessoais. OK
+
+Upload de anexos (exames, documentos). OK
+
+Busca e filtro por nome, CPF, convênio. OK
+
+Cadastro de médicos e colaboradores OK
+
+Informações profissionais (CRM, especialidade, horários). OK
+
+Associação com agenda. OK
+
+Agenda OK
+
+Visualização diária/semanal/mensal.OK
+
+Agendamento, cancelamento e encaixes.OK
+
+Filtros por médico, especialidade e sala. OK
+
+Prontuário eletrônico OK
+
+Histórico de atendimentos. OK
+
+Evolução clínica. OK
+
+Receitas e solicitações de exame.OK
+
+Impressão em PDF. OK
+
+Financeiro OK
+
+Cadastro de preços de consultas e procedimentos.OK
+
+Registro de pagamentos.OK
+
+Relatórios de faturamento.OK
+
+Convênios OK
+
+Cadastro de convênios e planos. OK
+
+Integração com agenda e financeiro.OK
+
+Relatórios e estatísticas OK
+
+Indicadores por período, médico e especialidade.OK
+
+Segurança e backup
+
+Criptografia de senhas. OK
+
+Backup do banco de dados.
+
+Logs de ações.ok
+
+Criar um modulo para alterar a identidade do Sistema, já que vamos adaptar o projeto para outras clinicas interessadas.
+(Esse modulo tem o objetivo de deixar o cabeçalho dinamico e adaptavel para criação de novas clinicas através de clonagem) ok

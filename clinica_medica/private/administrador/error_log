@@ -1,0 +1,12 @@
+[29-Aug-2025 22:03:20 America/Fortaleza] PHP Warning:  require_once(/home1/alyss340/gestorvital.com.br/clinica_medica/private/includes/../../../../config/helpers.php): Failed to open stream: No such file or directory in /home1/alyss340/gestorvital.com.br/clinica_medica/private/includes/cabecalho.php on line 5
+[29-Aug-2025 22:03:20 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/alyss340/gestorvital.com.br/clinica_medica/private/includes/../../../../config/helpers.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/alyss340/gestorvital.com.br/clinica_medica/private/includes/cabecalho.php:5
+Stack trace:
+#0 /home1/alyss340/gestorvital.com.br/clinica_medica/private/administrador/listar_servicos.php(4): include_once()
+#1 {main}
+  thrown in /home1/alyss340/gestorvital.com.br/clinica_medica/private/includes/cabecalho.php on line 5
+[29-Aug-2025 22:06:19 America/Fortaleza] PHP Warning:  require_once(/home1/alyss340/gestorvital.com.br/clinica_medica/private/includes/../../../../config/helpers.php): Failed to open stream: No such file or directory in /home1/alyss340/gestorvital.com.br/clinica_medica/private/includes/cabecalho.php on line 5
+[29-Aug-2025 22:06:19 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/alyss340/gestorvital.com.br/clinica_medica/private/includes/../../../../config/helpers.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/alyss340/gestorvital.com.br/clinica_medica/private/includes/cabecalho.php:5
+Stack trace:
+#0 /home1/alyss340/gestorvital.com.br/clinica_medica/private/administrador/listar_servicos.php(4): include_once()
+#1 {main}
+  thrown in /home1/alyss340/gestorvital.com.br/clinica_medica/private/includes/cabecalho.php on line 5

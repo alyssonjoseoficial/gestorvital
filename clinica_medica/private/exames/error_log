@@ -1,0 +1,42 @@
+[18-Sep-2025 22:14:31 America/Fortaleza] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home1/alyss340/gestorvital.com.br/clinica_medica/private/includes/rodape.php:17
+Stack trace:
+#0 /home1/alyss340/gestorvital.com.br/clinica_medica/private/includes/rodape.php(17): mysqli->ping()
+#1 /home1/alyss340/gestorvital.com.br/clinica_medica/private/exames/editar_exame.php(315): include_once('/home1/alyss340...')
+#2 {main}
+  thrown in /home1/alyss340/gestorvital.com.br/clinica_medica/private/includes/rodape.php on line 17
+[18-Sep-2025 22:14:31 America/Fortaleza] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home1/alyss340/gestorvital.com.br/clinica_medica/private/includes/rodape.php:17
+Stack trace:
+#0 /home1/alyss340/gestorvital.com.br/clinica_medica/private/includes/rodape.php(17): mysqli->ping()
+#1 /home1/alyss340/gestorvital.com.br/clinica_medica/private/exames/editar_exame.php(315): include_once('/home1/alyss340...')
+#2 {main}
+  thrown in /home1/alyss340/gestorvital.com.br/clinica_medica/private/includes/rodape.php on line 17
+[24-Mar-2026 08:45:44 America/Fortaleza] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home1/alyss340/gestorvital.com.br/clinica_medica/private/includes/rodape.php:17
+Stack trace:
+#0 /home1/alyss340/gestorvital.com.br/clinica_medica/private/includes/rodape.php(17): mysqli->ping()
+#1 /home1/alyss340/gestorvital.com.br/clinica_medica/private/exames/editar_exame.php(315): include_once('/home1/alyss340...')
+#2 {main}
+  thrown in /home1/alyss340/gestorvital.com.br/clinica_medica/private/includes/rodape.php on line 17
+[24-Mar-2026 08:45:59 America/Fortaleza] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home1/alyss340/gestorvital.com.br/clinica_medica/private/includes/rodape.php:17
+Stack trace:
+#0 /home1/alyss340/gestorvital.com.br/clinica_medica/private/includes/rodape.php(17): mysqli->ping()
+#1 /home1/alyss340/gestorvital.com.br/clinica_medica/private/exames/editar_exame.php(315): include_once('/home1/alyss340...')
+#2 {main}
+  thrown in /home1/alyss340/gestorvital.com.br/clinica_medica/private/includes/rodape.php on line 17
+[24-Mar-2026 08:54:32 America/Fortaleza] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home1/alyss340/gestorvital.com.br/clinica_medica/private/includes/rodape.php:17
+Stack trace:
+#0 /home1/alyss340/gestorvital.com.br/clinica_medica/private/includes/rodape.php(17): mysqli->ping()
+#1 /home1/alyss340/gestorvital.com.br/clinica_medica/private/exames/cadastrar_exame.php(185): include_once('/home1/alyss340...')
+#2 {main}
+  thrown in /home1/alyss340/gestorvital.com.br/clinica_medica/private/includes/rodape.php on line 17
+[24-Mar-2026 08:54:49 America/Fortaleza] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home1/alyss340/gestorvital.com.br/clinica_medica/private/includes/rodape.php:17
+Stack trace:
+#0 /home1/alyss340/gestorvital.com.br/clinica_medica/private/includes/rodape.php(17): mysqli->ping()
+#1 /home1/alyss340/gestorvital.com.br/clinica_medica/private/exames/cadastrar_exame.php(185): include_once('/home1/alyss340...')
+#2 {main}
+  thrown in /home1/alyss340/gestorvital.com.br/clinica_medica/private/includes/rodape.php on line 17
+[28-Mar-2026 11:41:40 America/Fortaleza] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home1/alyss340/gestorvital.com.br/clinica_medica/private/includes/rodape.php:17
+Stack trace:
+#0 /home1/alyss340/gestorvital.com.br/clinica_medica/private/includes/rodape.php(17): mysqli->ping()
+#1 /home1/alyss340/gestorvital.com.br/clinica_medica/private/exames/editar_exame.php(315): include_once('/home1/alyss340...')
+#2 {main}
+  thrown in /home1/alyss340/gestorvital.com.br/clinica_medica/private/includes/rodape.php on line 17

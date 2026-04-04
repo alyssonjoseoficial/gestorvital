@@ -1,0 +1,5 @@
+[06-Mar-2026 10:38:27 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot delete or update a parent row: a foreign key constraint fails (`alyss340_clinica_medica`.`exames`, CONSTRAINT `exames_ibfk_1` FOREIGN KEY (`paciente_id`) REFERENCES `pacientes` (`id`)) in /home1/alyss340/gestorvital.com.br/clinica_medica/private/pacientes/excluir.php:22
+Stack trace:
+#0 /home1/alyss340/gestorvital.com.br/clinica_medica/private/pacientes/excluir.php(22): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home1/alyss340/gestorvital.com.br/clinica_medica/private/pacientes/excluir.php on line 22

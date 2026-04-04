@@ -1,0 +1,14 @@
+<?php
+// Inicia a sessão para poder destruí-la
+session_start();
+
+// Destrói todas as variáveis de sessão
+session_unset();
+
+// Destrói a sessão
+session_destroy();
+
+// Redireciona para a página de login master
+header('Location: login_master.php');
+exit;
+?>

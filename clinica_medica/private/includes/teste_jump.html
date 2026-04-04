@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Teste de Movimento de Menu</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        
+        /* O estilo do menu */
+        .menu-nav {
+            display: flex;
+            list-style: none;
+            padding: 0;
+            margin: 0;
+            justify-content: center;
+            border-bottom: 1px solid #ccc;
+        }
+
+        .menu-nav li {
+            padding: 10px 15px;
+            cursor: pointer;
+        }
+
+        /* Classes para simular o conteúdo da página */
+        #conteudo-longo {
+            height: 2000px;
+            background-color: #f0f0f0;
+            padding: 20px;
+            margin-top: 20px;
+        }
+
+        #conteudo-curto {
+            height: 300px;
+            background-color: #e0e0e0;
+            padding: 20px;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Teste Visual do Menu</h1>
+    <p>Clique nos botões para mudar o tamanho do conteúdo da página e observe se o menu se movimenta.</p>
+
+    <div style="text-align: center;">
+        <button onclick="mostrarConteudo('longo')">Mostrar Conteúdo Longo</button>
+        <button onclick="mostrarConteudo('curto')">Mostrar Conteúdo Curto</button>
+    </div>
+
+    <ul class="menu-nav">
+        <li>Início</li>
+        <li>Pacientes</li>
+        <li>Convênios</li>
+    </ul>
+
+    <div id="conteudo-longo">
+        Conteúdo longo - Pressione o botão para ver a barra de rolagem aparecer.
+    </div>
+
+    <div id="conteudo-curto" style="display: none;">
+        Conteúdo curto - Pressione o botão para ver a barra de rolagem sumir.
+    </div>
+
+    <script>
+        function mostrarConteudo(tipo) {
+            const conteudoLongo = document.getElementById('conteudo-longo');
+            const conteudoCurto = document.getElementById('conteudo-curto');
+
+            if (tipo === 'longo') {
+                conteudoLongo.style.display = 'block';
+                conteudoCurto.style.display = 'none';
+            } else {
+                conteudoLongo.style.display = 'none';
+                conteudoCurto.style.display = 'block';
+            }
+        }
+    </script>
+</body>
+</html>

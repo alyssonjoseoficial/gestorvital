@@ -1,0 +1,85 @@
+[28-Aug-2025 21:33:22 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home1/alyss340/gestorvital.com.br/processa_login.php:19
+Stack trace:
+#0 /home1/alyss340/gestorvital.com.br/processa_login.php(19): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'clinicas_id')
+#1 {main}
+  thrown in /home1/alyss340/gestorvital.com.br/processa_login.php on line 19
+[28-Aug-2025 21:35:35 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home1/alyss340/gestorvital.com.br/processa_login.php:19
+Stack trace:
+#0 /home1/alyss340/gestorvital.com.br/processa_login.php(19): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'clinicas_id')
+#1 {main}
+  thrown in /home1/alyss340/gestorvital.com.br/processa_login.php on line 19
+[28-Aug-2025 21:38:13 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home1/alyss340/gestorvital.com.br/processa_login.php:19
+Stack trace:
+#0 /home1/alyss340/gestorvital.com.br/processa_login.php(19): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'clinicas_id')
+#1 {main}
+  thrown in /home1/alyss340/gestorvital.com.br/processa_login.php on line 19
+[28-Aug-2025 21:40:47 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home1/alyss340/gestorvital.com.br/processa_login.php:19
+Stack trace:
+#0 /home1/alyss340/gestorvital.com.br/processa_login.php(19): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'clinicas_id')
+#1 {main}
+  thrown in /home1/alyss340/gestorvital.com.br/processa_login.php on line 19
+[28-Aug-2025 21:42:06 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home1/alyss340/gestorvital.com.br/processa_login.php:19
+Stack trace:
+#0 /home1/alyss340/gestorvital.com.br/processa_login.php(19): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'clinicas_id')
+#1 {main}
+  thrown in /home1/alyss340/gestorvital.com.br/processa_login.php on line 19
+[28-Aug-2025 21:42:22 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home1/alyss340/gestorvital.com.br/processa_login.php:19
+Stack trace:
+#0 /home1/alyss340/gestorvital.com.br/processa_login.php(19): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'clinicas_id')
+#1 {main}
+  thrown in /home1/alyss340/gestorvital.com.br/processa_login.php on line 19
+[28-Aug-2025 21:44:57 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home1/alyss340/gestorvital.com.br/processa_login.php:19
+Stack trace:
+#0 /home1/alyss340/gestorvital.com.br/processa_login.php(19): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'alyss340_clinic...')
+#1 {main}
+  thrown in /home1/alyss340/gestorvital.com.br/processa_login.php on line 19
+[28-Aug-2025 21:47:08 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'alyss340_teste'@'localhost' (using password: NO) in /home1/alyss340/gestorvital.com.br/processa_login.php:19
+Stack trace:
+#0 /home1/alyss340/gestorvital.com.br/processa_login.php(19): mysqli->__construct('localhost', 'alyss340_teste', Object(SensitiveParameterValue), 'alyss340_clinic...')
+#1 {main}
+  thrown in /home1/alyss340/gestorvital.com.br/processa_login.php on line 19
+[29-Aug-2025 19:08:34 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'alyss340_teste'@'localhost' (using password: NO) in /home1/alyss340/gestorvital.com.br/processa_login.php:19
+Stack trace:
+#0 /home1/alyss340/gestorvital.com.br/processa_login.php(19): mysqli->__construct('localhost', 'alyss340_teste', Object(SensitiveParameterValue), 'alyss340_clinic...')
+#1 {main}
+  thrown in /home1/alyss340/gestorvital.com.br/processa_login.php on line 19
+[29-Aug-2025 19:09:51 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home1/alyss340/gestorvital.com.br/processa_login.php:40
+Stack trace:
+#0 /home1/alyss340/gestorvital.com.br/processa_login.php(40): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'clinica_medica')
+#1 {main}
+  thrown in /home1/alyss340/gestorvital.com.br/processa_login.php on line 40
+[29-Aug-2025 19:09:51 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home1/alyss340/gestorvital.com.br/processa_login.php:40
+Stack trace:
+#0 /home1/alyss340/gestorvital.com.br/processa_login.php(40): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'clinica_medica')
+#1 {main}
+  thrown in /home1/alyss340/gestorvital.com.br/processa_login.php on line 40
+[29-Aug-2025 19:09:51 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home1/alyss340/gestorvital.com.br/processa_login.php:40
+Stack trace:
+#0 /home1/alyss340/gestorvital.com.br/processa_login.php(40): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'clinica_medica')
+#1 {main}
+  thrown in /home1/alyss340/gestorvital.com.br/processa_login.php on line 40
+[29-Aug-2025 19:22:02 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home1/alyss340/gestorvital.com.br/processa_login.php:40
+Stack trace:
+#0 /home1/alyss340/gestorvital.com.br/processa_login.php(40): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'clinica_medica')
+#1 {main}
+  thrown in /home1/alyss340/gestorvital.com.br/processa_login.php on line 40
+[29-Aug-2025 19:33:17 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home1/alyss340/gestorvital.com.br/processa_login.php:40
+Stack trace:
+#0 /home1/alyss340/gestorvital.com.br/processa_login.php(40): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'clinica_medica')
+#1 {main}
+  thrown in /home1/alyss340/gestorvital.com.br/processa_login.php on line 40
+[29-Aug-2025 19:59:28 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home1/alyss340/gestorvital.com.br/processa_login.php:40
+Stack trace:
+#0 /home1/alyss340/gestorvital.com.br/processa_login.php(40): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'clinica_medica')
+#1 {main}
+  thrown in /home1/alyss340/gestorvital.com.br/processa_login.php on line 40
+[29-Aug-2025 20:39:50 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home1/alyss340/gestorvital.com.br/processa_login.php:45
+Stack trace:
+#0 /home1/alyss340/gestorvital.com.br/processa_login.php(45): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'clinica_medica')
+#1 {main}
+  thrown in /home1/alyss340/gestorvital.com.br/processa_login.php on line 45
+[29-Aug-2025 20:39:50 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home1/alyss340/gestorvital.com.br/processa_login.php:45
+Stack trace:
+#0 /home1/alyss340/gestorvital.com.br/processa_login.php(45): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'clinica_medica')
+#1 {main}
+  thrown in /home1/alyss340/gestorvital.com.br/processa_login.php on line 45

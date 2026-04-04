@@ -1,0 +1,48 @@
+[29-Aug-2025 19:48:52 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'alyss340_teste'@'localhost' to database 'alyss340_vital_db' in /home1/alyss340/gestorvital.com.br/clinica_medica/config/config.php:13
+Stack trace:
+#0 /home1/alyss340/gestorvital.com.br/clinica_medica/config/config.php(13): mysqli->__construct('localhost', 'alyss340_teste', Object(SensitiveParameterValue), 'alyss340_vital_...')
+#1 /home1/alyss340/gestorvital.com.br/clinica_medica/private/dashboard.php(3): require_once('/home1/alyss340...')
+#2 {main}
+  thrown in /home1/alyss340/gestorvital.com.br/clinica_medica/config/config.php on line 13
+[29-Aug-2025 20:44:41 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'alyss340_teste'@'localhost' to database 'alyss340_vital_db' in /home1/alyss340/gestorvital.com.br/clinica_medica/config/config.php:13
+Stack trace:
+#0 /home1/alyss340/gestorvital.com.br/clinica_medica/config/config.php(13): mysqli->__construct('localhost', 'alyss340_teste', Object(SensitiveParameterValue), 'alyss340_vital_...')
+#1 /home1/alyss340/gestorvital.com.br/clinica_medica/private/dashboard.php(3): require_once('/home1/alyss340...')
+#2 {main}
+  thrown in /home1/alyss340/gestorvital.com.br/clinica_medica/config/config.php on line 13
+[29-Aug-2025 20:45:34 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'alyss340_teste'@'localhost' to database 'alyss340_vital_db' in /home1/alyss340/gestorvital.com.br/clinica_medica/config/config.php:13
+Stack trace:
+#0 /home1/alyss340/gestorvital.com.br/clinica_medica/config/config.php(13): mysqli->__construct('localhost', 'alyss340_teste', Object(SensitiveParameterValue), 'alyss340_vital_...')
+#1 /home1/alyss340/gestorvital.com.br/clinica_medica/private/dashboard.php(3): require_once('/home1/alyss340...')
+#2 {main}
+  thrown in /home1/alyss340/gestorvital.com.br/clinica_medica/config/config.php on line 13
+[29-Aug-2025 20:45:47 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'alyss340_teste'@'localhost' to database 'alyss340_vital_db' in /home1/alyss340/gestorvital.com.br/clinica_medica/config/config.php:13
+Stack trace:
+#0 /home1/alyss340/gestorvital.com.br/clinica_medica/config/config.php(13): mysqli->__construct('localhost', 'alyss340_teste', Object(SensitiveParameterValue), 'alyss340_vital_...')
+#1 /home1/alyss340/gestorvital.com.br/clinica_medica/private/dashboard.php(3): require_once('/home1/alyss340...')
+#2 {main}
+  thrown in /home1/alyss340/gestorvital.com.br/clinica_medica/config/config.php on line 13
+[29-Aug-2025 20:48:57 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'alyss340_teste'@'localhost' to database 'alyss340_vital_db' in /home1/alyss340/gestorvital.com.br/clinica_medica/config/config.php:13
+Stack trace:
+#0 /home1/alyss340/gestorvital.com.br/clinica_medica/config/config.php(13): mysqli->__construct('localhost', 'alyss340_teste', Object(SensitiveParameterValue), 'alyss340_vital_...')
+#1 /home1/alyss340/gestorvital.com.br/clinica_medica/private/dashboard.php(8): require_once('/home1/alyss340...')
+#2 {main}
+  thrown in /home1/alyss340/gestorvital.com.br/clinica_medica/config/config.php on line 13
+[29-Aug-2025 21:05:23 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'alyss340_teste'@'localhost' to database 'alyss340_vital_db' in /home1/alyss340/gestorvital.com.br/clinica_medica/config/config.php:13
+Stack trace:
+#0 /home1/alyss340/gestorvital.com.br/clinica_medica/config/config.php(13): mysqli->__construct('localhost', 'alyss340_teste', Object(SensitiveParameterValue), 'alyss340_vital_...')
+#1 /home1/alyss340/gestorvital.com.br/clinica_medica/private/dashboard.php(8): require_once('/home1/alyss340...')
+#2 {main}
+  thrown in /home1/alyss340/gestorvital.com.br/clinica_medica/config/config.php on line 13
+[29-Aug-2025 21:07:03 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/alyss340/gestorvital.com.br/clinica_medica/private/dashboard.php on line 20
+[29-Aug-2025 21:10:15 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/alyss340/gestorvital.com.br/clinica_medica/private/dashboard.php on line 15
+[29-Aug-2025 21:13:54 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/alyss340/gestorvital.com.br/clinica_medica/private/dashboard.php on line 15
+[29-Aug-2025 21:13:58 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/alyss340/gestorvital.com.br/clinica_medica/private/dashboard.php on line 15
+[29-Aug-2025 21:14:01 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/alyss340/gestorvital.com.br/clinica_medica/private/dashboard.php on line 15
+[29-Aug-2025 21:14:07 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/alyss340/gestorvital.com.br/clinica_medica/private/dashboard.php on line 15
+[29-Aug-2025 22:03:13 America/Fortaleza] PHP Warning:  require_once(/home1/alyss340/gestorvital.com.br/clinica_medica/private/includes/../../../../config/helpers.php): Failed to open stream: No such file or directory in /home1/alyss340/gestorvital.com.br/clinica_medica/private/includes/cabecalho.php on line 5
+[29-Aug-2025 22:03:13 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/alyss340/gestorvital.com.br/clinica_medica/private/includes/../../../../config/helpers.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/alyss340/gestorvital.com.br/clinica_medica/private/includes/cabecalho.php:5
+Stack trace:
+#0 /home1/alyss340/gestorvital.com.br/clinica_medica/private/dashboard.php(85): include_once()
+#1 {main}
+  thrown in /home1/alyss340/gestorvital.com.br/clinica_medica/private/includes/cabecalho.php on line 5

@@ -1,0 +1,8 @@
+[29-Aug-2025 22:06:33 America/Fortaleza] PHP Warning:  require_once(/home1/alyss340/gestorvital.com.br/clinica_medica/private/includes/../../../../config/helpers.php): Failed to open stream: No such file or directory in /home1/alyss340/gestorvital.com.br/clinica_medica/private/includes/cabecalho.php on line 5
+[29-Aug-2025 22:06:33 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/alyss340/gestorvital.com.br/clinica_medica/private/includes/../../../../config/helpers.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/alyss340/gestorvital.com.br/clinica_medica/private/includes/cabecalho.php:5
+Stack trace:
+#0 /home1/alyss340/gestorvital.com.br/clinica_medica/private/usuarios/listar.php(3): require_once()
+#1 {main}
+  thrown in /home1/alyss340/gestorvital.com.br/clinica_medica/private/includes/cabecalho.php on line 5
+[06-Mar-2026 10:31:53 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/alyss340/gestorvital.com.br/clinica_medica/private/includes/cabecalho.php:74) in /home1/alyss340/gestorvital.com.br/clinica_medica/private/usuarios/editar.php on line 55
+[06-Mar-2026 10:32:00 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/alyss340/gestorvital.com.br/clinica_medica/private/includes/cabecalho.php:74) in /home1/alyss340/gestorvital.com.br/clinica_medica/private/usuarios/editar.php on line 55
